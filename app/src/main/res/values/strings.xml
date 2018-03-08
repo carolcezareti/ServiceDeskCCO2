@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service Desk CCO</string>
+    <string name="buscar_fila">FilaSolucionadora</string>
+    <string name="botao_buscar">Buscar</string>
+</resources>
